@@ -2,7 +2,7 @@
 ### Using Dissolved-Gas Sensor Trends
 
 **Engineering Clinics Project | B.Tech 3rd Semester | CSE**  
-Chandigarh Engineering College, Jhanjeri (IK Gujral Punjab Technical University)  
+Chandigarh Engineering College, Jhanjeri (CGC University, Mohali)  
 Guide: Ms. Aparna Sikarkar | September 2026
 
 ---
